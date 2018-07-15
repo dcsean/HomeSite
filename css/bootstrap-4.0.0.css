@@ -7693,6 +7693,15 @@ button.bg-dark:focus {
   padding-left: 3rem !important;
 }
 
+.mt-xx,
+.my-xx {
+	margin-top: 10rem !important;
+}
+
+.mb-xx,
+.my-xx {
+	margin-bottom: 10rem !important;
+}
 .m-auto {
   margin: auto !important;
 }
